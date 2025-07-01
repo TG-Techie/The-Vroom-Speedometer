@@ -1,2 +1,2 @@
 # The-Vroom-Speedometer
-And issue tracker for The Vroom Speedometer app
+Public info and issue tracker for The Vroom Speedometer app
